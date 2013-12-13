@@ -1,0 +1,7 @@
+{
+  "name": "verstat-plugin-less",
+  "version": "1.0.0",
+  "dependencies": {
+    "less": "~1.5.1"
+  }
+}
